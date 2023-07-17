@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Meme Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+This project is a hands-on learning experience in building a comprehensive meme generator. The project employs the core concepts of ReactJS including hooks, conditional rendering, forms in React, and making API calls. The lessons are distributed over 5 hours and cover 64 topics.
 
-In the project directory, you can run:
+## Learning Outcomes
 
-### `npm start`
+1. Project Setup and Design Analysis: Learned about project structure, design analysis using Figma and building basic components like headers and forms.
+2. Understanding Event Listeners: Hands-on experience with event listeners and handling events in React.
+3. Props vs State: Delved into the difference between props and state in React and how to use them.
+4. UseState Hook: Explored the useState hook, array destructuring and state manipulation.
+5. Complex State: Learned how to handle complex state involving arrays and objects.
+6. Passing State as Props: Mastered the flow of state in React components and how to pass and lift state.
+7. Conditional Rendering: Grasped conditional rendering using && and ternary operators.
+8. React Forms: Gained comprehensive knowledge about different form inputs in React and how to handle them.
+9. API Calls and useEffect: Delved into making API calls, understanding the useEffect hook and its dependencies.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Throughout the project, numerous challenges were tackled enhancing the understanding of React and strengthening problem-solving skills.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The final output of this learning journey is a meme generator that fetches random memes from an API and allows users to add custom texts to create their personalized memes.
 
-### `npm test`
+## Lessons
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The course is broken down into 64 comprehensive lessons. Refer to the course content for an exhaustive list.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ReactJS
+- CSS
+- Figma for design analysis
+- Imgflip API for fetching memes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Deployment
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You can check the live version of this project. Here's the link: [Meme Generator](https://meme-generator-1.netlify.app/)
