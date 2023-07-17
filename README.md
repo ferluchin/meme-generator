@@ -33,4 +33,4 @@ The course is broken down into 64 comprehensive lessons. Refer to the course con
 
 ## Deployment
 
-You can check the live version of this project. Here's the link: [Meme Generator](https://meme-generator-1.netlify.app/)
+You can check the live version of this project. Here's the link: [Meme Generator](meme-generator-react2.netlify.app)
