@@ -1,4 +1,5 @@
 # Meme Generator
+![meme-generator](https://github.com/ferluchin/meme-generator/assets/6580338/e03ed74d-df35-4ce5-8dbb-df0ba8d2194b)
 
 ## Overview
 
@@ -33,4 +34,4 @@ The course is broken down into 64 comprehensive lessons. Refer to the course con
 
 ## Deployment
 
-You can check the live version of this project. Here's the link: [Meme Generator](meme-generator-react2.netlify.app)
+You can check the live version of this project. Here's the link: [Meme Generator](https://meme-generator-react2.netlify.app/)
